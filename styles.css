@@ -1,0 +1,31 @@
+
+body {
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+#canvas {
+  max-width: 600px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  background-color: gray;
+}
+
+#story {
+  margin-bottom: 20px;
+}
+
+.option {
+  margin-bottom: 10px;
+  cursor: pointer;
+  /*border: 1px solid black;*/
+}
+
+.option:hover {
+  font-weight: bold;
+  color: blue;
+}
