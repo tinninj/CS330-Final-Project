@@ -1,6 +1,6 @@
 **Overview of Project:**
 ====================================
-For my project, I decided to create a Choose Your Own Adventure Game using mostly JavaScript with some HTML and CSS. I focused on using the JavaScript Document Object Model to add player input.
+For my project for CS330 -Struture and Organization of Programming Lanuages, I decided to create a Choose Your Own Adventure Game using mostly JavaScript with some HTML and CSS. I focused on using the JavaScript Document Object Model to add player interaction.
 
 **What I Managed to Accomplish:**
 ====================================
