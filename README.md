@@ -1,5 +1,3 @@
-# CS330-Final-Project
-
 **Overview of Project:**
 ====================================
 For my project, I decided to create a Choose Your Own Adventure Game using mostly JavaScript with some HTML and CSS. I focused on using the JavaScript Document Object Model to add player input.
